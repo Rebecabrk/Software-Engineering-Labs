@@ -1,6 +1,6 @@
 [submodule "BookingIasi"]
 	path = BookingIasi
-	url = ./BookingIasi
+	url = https://github.com/vladsuper5555/BookingIasi
 [submodule "lab04_se"]
 	path = lab04_se
-	url = ./lab04_se
+	url = https://github.com/edwardedi/lab04_se
